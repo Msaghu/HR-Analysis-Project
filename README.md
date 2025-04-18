@@ -1,6 +1,8 @@
 # HR-Dashboard-MySQL-PowerBI
 A data visualisation project for using HR data using Power BI and SQL
 We analysed a HR csv file to extract insights that we then displayed using Power BI.
+<img width="777" alt="HR Employee report pdf" src="https://github.com/user-attachments/assets/af7fd57f-0eb0-4061-972c-b065f7701f18" />
+
 
 ## Questions answered by the SQL queries
 1. What is the gender breakdown of employees in the company?
